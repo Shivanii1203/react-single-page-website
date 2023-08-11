@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import img1 from "../images/download-logo-removebg-preview(1).png"
+import img1 from "../images/logo.png"
 
 function Home() {
   return (

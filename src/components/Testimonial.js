@@ -1,8 +1,8 @@
 import React from 'react'
 import './style.css'
-import img1 from "../images/alis martin.jpg"
-import img2 from "../images/jack sparrow.jpg"
-import img3 from "../images/ken norman.jpg"
+import img1 from "../images/image1.jpg"
+import img2 from "../images/image2.jpg"
+import img3 from "../images/image3.jpg"
 import img4 from "../images/twitter.png"
 
 export default function Testimonial() {

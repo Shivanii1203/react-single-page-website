@@ -1,10 +1,10 @@
 
 import React from 'react'
 import './style.css'
-import img1 from "../images/Keratin-smooth-Shampoo-340.webp"
-import img2 from "../images/WhatsApp Image 2023-07-23 at 3.39.49 AM.jpeg"
-import img3 from "../images/facewashhh.jpg"
-import img4 from "../images/WhatsApp Image 2023-07-23 at3.39.50AM(2).jpeg"
+import img1 from "../images/product1.jpeg"
+import img2 from "../images/product2.jpeg"
+import img3 from "../images/product3.jpeg"
+import img4 from "../images/product4.jpeg"
 
 
  function Services() {
